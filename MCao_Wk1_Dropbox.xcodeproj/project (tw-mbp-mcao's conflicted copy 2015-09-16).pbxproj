@@ -7,21 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4B07D9181BAC906C004EF8C7 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B07D9171BAC906C004EF8C7 /* CreateAccountViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B07D91A1BAC9080004EF8C7 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B07D9191BAC9080004EF8C7 /* SignInViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B0960851BB0B2A900AF6092 /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0960841BB0B2A900AF6092 /* CreateAccountRootViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B0960871BB0C81C00AF6092 /* SignInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B0960861BB0C81C00AF6092 /* SignInRootViewController.swift */; settings = {ASSET_TAGS = (); }; };
 		4B1920431BA9E4720082DC50 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1920421BA9E4720082DC50 /* AppDelegate.swift */; };
 		4B1920451BA9E4720082DC50 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1920441BA9E4720082DC50 /* ViewController.swift */; };
 		4B1920481BA9E4720082DC50 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B1920461BA9E4720082DC50 /* Main.storyboard */; };
 		4B19204A1BA9E4720082DC50 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4B1920491BA9E4720082DC50 /* Images.xcassets */; };
+		4B19204D1BA9E4720082DC50 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4B19204B1BA9E4720082DC50 /* LaunchScreen.xib */; };
 		4B1920591BA9E4720082DC50 /* MCao_Wk1_DropboxTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1920581BA9E4720082DC50 /* MCao_Wk1_DropboxTests.swift */; };
-		4B7D9E5A1BAE1BAC00F60FC6 /* TermsofServiceViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D9E591BAE1BAC00F60FC6 /* TermsofServiceViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B7D9E5C1BAE20AA00F60FC6 /* FilesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D9E5B1BAE20AA00F60FC6 /* FilesViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B7D9E5E1BAE20C800F60FC6 /* PhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D9E5D1BAE20C800F60FC6 /* PhotosViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B7D9E601BAE20D400F60FC6 /* FavoritesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D9E5F1BAE20D400F60FC6 /* FavoritesViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4B7D9E661BAF6DEC00F60FC6 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B7D9E651BAF6DEC00F60FC6 /* SettingsViewController.swift */; settings = {ASSET_TAGS = (); }; };
-		4BC69EC31BAF73E300BACA69 /* ForgotPasswordViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BC69EC21BAF73E300BACA69 /* ForgotPasswordViewController.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,25 +26,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		4B07D9171BAC906C004EF8C7 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
-		4B07D9191BAC9080004EF8C7 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
-		4B0960841BB0B2A900AF6092 /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
-		4B0960861BB0C81C00AF6092 /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
 		4B19203D1BA9E4720082DC50 /* MCao_Wk1_Dropbox.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MCao_Wk1_Dropbox.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B1920411BA9E4720082DC50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B1920421BA9E4720082DC50 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B1920441BA9E4720082DC50 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		4B1920471BA9E4720082DC50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		4B1920491BA9E4720082DC50 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		4B19204C1BA9E4720082DC50 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		4B1920521BA9E4720082DC50 /* MCao_Wk1_DropboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MCao_Wk1_DropboxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B1920571BA9E4720082DC50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B1920581BA9E4720082DC50 /* MCao_Wk1_DropboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MCao_Wk1_DropboxTests.swift; sourceTree = "<group>"; };
-		4B7D9E591BAE1BAC00F60FC6 /* TermsofServiceViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsofServiceViewController.swift; sourceTree = "<group>"; };
-		4B7D9E5B1BAE20AA00F60FC6 /* FilesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilesViewController.swift; sourceTree = "<group>"; };
-		4B7D9E5D1BAE20C800F60FC6 /* PhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotosViewController.swift; sourceTree = "<group>"; };
-		4B7D9E5F1BAE20D400F60FC6 /* FavoritesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FavoritesViewController.swift; sourceTree = "<group>"; };
-		4B7D9E651BAF6DEC00F60FC6 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingsViewController.swift; path = ../SettingsViewController.swift; sourceTree = "<group>"; };
-		4BC69EC21BAF73E300BACA69 /* ForgotPasswordViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForgotPasswordViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,20 +77,11 @@
 		4B19203F1BA9E4720082DC50 /* MCao_Wk1_Dropbox */ = {
 			isa = PBXGroup;
 			children = (
-				4B7D9E651BAF6DEC00F60FC6 /* SettingsViewController.swift */,
 				4B1920421BA9E4720082DC50 /* AppDelegate.swift */,
 				4B1920441BA9E4720082DC50 /* ViewController.swift */,
 				4B1920461BA9E4720082DC50 /* Main.storyboard */,
-				4B7D9E5F1BAE20D400F60FC6 /* FavoritesViewController.swift */,
-				4B7D9E5D1BAE20C800F60FC6 /* PhotosViewController.swift */,
-				4B7D9E5B1BAE20AA00F60FC6 /* FilesViewController.swift */,
-				4B7D9E591BAE1BAC00F60FC6 /* TermsofServiceViewController.swift */,
-				4BC69EC21BAF73E300BACA69 /* ForgotPasswordViewController.swift */,
-				4B07D9191BAC9080004EF8C7 /* SignInViewController.swift */,
-				4B07D9171BAC906C004EF8C7 /* CreateAccountViewController.swift */,
-				4B0960841BB0B2A900AF6092 /* CreateAccountRootViewController.swift */,
-				4B0960861BB0C81C00AF6092 /* SignInRootViewController.swift */,
 				4B1920491BA9E4720082DC50 /* Images.xcassets */,
+				4B19204B1BA9E4720082DC50 /* LaunchScreen.xib */,
 				4B1920401BA9E4720082DC50 /* Supporting Files */,
 			);
 			path = MCao_Wk1_Dropbox;
@@ -183,7 +156,6 @@
 		4B1920351BA9E4720082DC50 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = "Michie Cao";
 				TargetAttributes = {
@@ -221,6 +193,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4B1920481BA9E4720082DC50 /* Main.storyboard in Resources */,
+				4B19204D1BA9E4720082DC50 /* LaunchScreen.xib in Resources */,
 				4B19204A1BA9E4720082DC50 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -239,18 +212,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4B07D91A1BAC9080004EF8C7 /* SignInViewController.swift in Sources */,
-				4B07D9181BAC906C004EF8C7 /* CreateAccountViewController.swift in Sources */,
-				4B7D9E601BAE20D400F60FC6 /* FavoritesViewController.swift in Sources */,
 				4B1920451BA9E4720082DC50 /* ViewController.swift in Sources */,
-				4B7D9E5A1BAE1BAC00F60FC6 /* TermsofServiceViewController.swift in Sources */,
-				4B7D9E5E1BAE20C800F60FC6 /* PhotosViewController.swift in Sources */,
-				4B0960851BB0B2A900AF6092 /* CreateAccountRootViewController.swift in Sources */,
-				4BC69EC31BAF73E300BACA69 /* ForgotPasswordViewController.swift in Sources */,
-				4B0960871BB0C81C00AF6092 /* SignInRootViewController.swift in Sources */,
-				4B7D9E5C1BAE20AA00F60FC6 /* FilesViewController.swift in Sources */,
 				4B1920431BA9E4720082DC50 /* AppDelegate.swift in Sources */,
-				4B7D9E661BAF6DEC00F60FC6 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -279,6 +242,14 @@
 				4B1920471BA9E4720082DC50 /* Base */,
 			);
 			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4B19204B1BA9E4720082DC50 /* LaunchScreen.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4B19204C1BA9E4720082DC50 /* Base */,
+			);
+			name = LaunchScreen.xib;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -368,26 +339,22 @@
 		4B19205D1BA9E4720082DC50 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				INFOPLIST_FILE = MCao_Wk1_Dropbox/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		4B19205E1BA9E4720082DC50 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-2";
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "LaunchImage-2";
 				INFOPLIST_FILE = MCao_Wk1_Dropbox/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -444,7 +411,6 @@
 				4B19205E1BA9E4720082DC50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		4B19205F1BA9E4720082DC50 /* Build configuration list for PBXNativeTarget "MCao_Wk1_DropboxTests" */ = {
 			isa = XCConfigurationList;
@@ -453,7 +419,6 @@
 				4B1920611BA9E4720082DC50 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
