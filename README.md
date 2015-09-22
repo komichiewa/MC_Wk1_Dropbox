@@ -21,7 +21,7 @@ Optional:
 -User can fill out the Create user form, including first name, last name, email and password.
 -User can see the strength of the input password (currently determined by length of string)
 
-Walkthrough of all user stories:
+Walkthrough of all user stories:<br><br>
 ![](http://i.imgur.com/ZlYaiBJ.gif)<br><br>
 
 
