@@ -22,4 +22,6 @@ Optional:
 -User can see the strength of the input password (currently determined by length of string)
 
 Walkthrough of all user stories:
+![](http://i.imgur.com/ZlYaiBJ.gif)<br><br>
+
 
